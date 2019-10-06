@@ -1,0 +1,9 @@
+C:\Users\Davor\source\repos\HattrickDemo1\HattrickDemo1\bin\Debug\HattrickDemo1.exe.config
+C:\Users\Davor\source\repos\HattrickDemo1\HattrickDemo1\bin\Debug\HattrickDemo1.exe
+C:\Users\Davor\source\repos\HattrickDemo1\HattrickDemo1\bin\Debug\HattrickDemo1.pdb
+C:\Users\Davor\source\repos\HattrickDemo1\HattrickDemo1\obj\Debug\HattrickDemo1.csprojAssemblyReference.cache
+C:\Users\Davor\source\repos\HattrickDemo1\HattrickDemo1\obj\Debug\HattrickDemo1.Form1.resources
+C:\Users\Davor\source\repos\HattrickDemo1\HattrickDemo1\obj\Debug\HattrickDemo1.Properties.Resources.resources
+C:\Users\Davor\source\repos\HattrickDemo1\HattrickDemo1\obj\Debug\HattrickDemo1.csproj.GenerateResource.cache
+C:\Users\Davor\source\repos\HattrickDemo1\HattrickDemo1\obj\Debug\HattrickDemo1.exe
+C:\Users\Davor\source\repos\HattrickDemo1\HattrickDemo1\obj\Debug\HattrickDemo1.pdb
